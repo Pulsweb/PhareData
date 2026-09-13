@@ -1,2 +1,1 @@
-# pharedata
-La chaîne qui éclaire vos données
+# Phare Data | La chaîne qui éclaire vos données
