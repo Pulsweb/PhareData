@@ -1,0 +1,30 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires
+*~
+*.tmp
+*.bak
+*.swp
+
+# Rushes et exports lourds (à héberger hors du dépôt)
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wav
+*.mp3
+*.aac
+
+# Fichiers de projet de montage
+*.prproj
+*.veg
+*.kdenlive
+
+# Environnements et dépendances
+.venv/
+venv/
+__pycache__/
+node_modules/
