@@ -30,9 +30,9 @@ même épisode.
 
 1. **Préparation** — créer `episodes/EP000-titre-court/`, y copier
    `modeles/script-episode.md` sous le nom `script.md` et
-   `modeles/checklist-publication.md` sous le nom `checklist.md`, puis rédiger le script.
+   `modeles/checklist-production.md` sous le nom `checklist.md`, puis rédiger le script.
 2. **Construction des supports** — ajouter le code dans `scripts/EP000-titre-court/`
-   et le support visuel dans `presentations/`.
+   et le support visuel dans `presentations/EP000-titre-court/`.
 3. **Enregistrement** — dérouler la section « Enregistrement » de la checklist.
 4. **Montage et publication** — dérouler les sections « Montage » et « Publication »,
    puis consigner les retours après diffusion.
